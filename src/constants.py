@@ -1,6 +1,6 @@
 # default values
-root = '/home/tawfiq/PycharmProjects/RM_DeepRL'
-algo = 'reinforce'
+root = '/home/jaken/PycharmProjects/RM_DeepRL'
+algo = 'dqn'
 workload = 'jobs.csv'
 beta = 1.0
 iteration = 1000
